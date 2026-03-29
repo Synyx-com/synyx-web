@@ -638,7 +638,7 @@ img {
   justify-content: center;
   align-items: center;
   gap: 30px; /* margin ki jagah use karo */
-  flex-wrap: nowrap; /* ek line me force karega */
+  flex-wrap: wrap; /* ek line me force karega */
 }
 
 .team-section .row .card{
